@@ -15,3 +15,22 @@
     <li>Handling signals: Supports "Ctrl + C" and "Ctrl + Z", for killing/stopping a process.</li>
     <li>Exit The Shell: "quit" command.</li>
 </h4>
+
+<h2>Download:</h2>
+
+    git clone https://github.com/oradbarel/Unix-Shell.git
+    
+<h2> Build:</h2>
+Once downloaded, do the following:
+
+    cd Unix-Shell/src
+    make smash
+or you run `make smash` from your `src` folder.
+
+<h2> Run:</h2>
+
+  cd Unix-Shell/release
+  ./smash
+  
+or you run `./smash` from your `release` folder.
+
