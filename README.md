@@ -1,4 +1,5 @@
 <h1 align="center">Unix-Shell</h1>
+<h3 align="center">Oprating Systems Course</h3>
 
 <h2> Description: </h2>
 <h3>Smash - Small Shell </h3>
