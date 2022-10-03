@@ -13,4 +13,5 @@
     <li>Shell Commands: "chprompt", "showpid", "pwd", "cd", "jobs", "kill", "fg", "bg", "quit", "tail", "touch" and "timeout".</li>
     <li>Pipes and IO Redirection: Supports ">", ">>", "|" and "|&".</li>
     <li>Handling signals: Supports "Ctrl + C" and "Ctrl + Z", for killing/stopping a process.</li>
+    <li>Exit The Shell: "quit" command.</li>
 </h4>
